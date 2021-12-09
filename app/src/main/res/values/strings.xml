@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Дипломная работа Денисов Ю.Е.</string>
+    <string name="main_text">Дипломная работа Денисов Ю.Е.</string>
+    <string name="text_button_next_activiti">Экран с прокруткой</string>
+    <string name="text_button_fragment">Экран с фрагментами</string>
+    <string name="text_button1">Байкал-Т</string>
+    <string name="text_button2">Байкал-М</string>
+    <string name="text_button3">Байкал-S</string>
+    <string name="text_button_material">Material Design</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
